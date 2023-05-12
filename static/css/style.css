@@ -33,7 +33,7 @@
 }  
 
 .flexbox-row-1, .flexbox-row-2{
-    background-image: url(/static/image/blackjack_background.jpg);
+    background-image: url(static/image/blackjack_background.jpg);
     color: white;
 }
 
